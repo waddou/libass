@@ -1,0 +1,1 @@
+libass' repository resides at http://repo.or.cz/w/libass.git
